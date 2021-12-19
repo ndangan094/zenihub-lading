@@ -15,7 +15,7 @@ const Introduce = () => {
         <div className="absolute">
           <img src="/assets/introduce.png" alt="Introduce" />
         </div>
-        <div className="absolute pl-14 top-[-260px] font-[Haragino]">
+        <div className="absolute pl-14 top-[-260px] font-[Haragino] font-bold">
           <p className="text-[72px]">Our Journey to Reinvent</p>
           <p className="text-[72px]">Real Estate Investing</p>
         </div>
