@@ -5,11 +5,11 @@ const Contact = () => {
     <div className="relative font-[SFPro]">
       <div className=" h-[7vw]" />
       <div className="absolute w-full">
-        <img src="/assets/contact.png" alt="contact" />
+        <img src="assets/contact.png" alt="contact" />
       </div>
       <div className="absolute flex flex-col ml-[10vw] mt-[3vw]">
         <div className="w-[180px] mb-6">
-          <img src="/assets/big-logo.png" alt="logo" />
+          <img src="assets/big-logo.png" alt="logo" />
         </div>
         <p>Your name</p>
         <div className=" border-[1px] border-borderInput py-2 px-4 mt-2 mb-5">

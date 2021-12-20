@@ -13,7 +13,7 @@ const Introduce = () => {
           <div className="bg-backgroundIntroduce2 w-[24.9%]"></div>
         </div>
         <div className="absolute">
-          <img src="/assets/introduce.png" alt="Introduce" />
+          <img src="assets/introduce.png" alt="Introduce" />
         </div>
         <div className="absolute pl-14 top-[-260px] font-[Haragino] font-bold">
           <p className="text-[72px]">Our Journey to Reinvent</p>

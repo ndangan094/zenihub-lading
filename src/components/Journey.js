@@ -15,7 +15,7 @@ const Journey = () => {
         supply in the market down to 50% of the issued amount.
       </p>
       <div>
-        <img src="/assets/map.png" />
+        <img src="assets/map.png" />
       </div>
       <div className="text-clay border-clay border-[1px] px-10 py-2 select-none cursor-pointer my-20">
         <p>Register to Invest in Zeni Coins</p>

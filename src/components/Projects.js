@@ -141,10 +141,10 @@ const Project = () => {
         </div>
         <div className="flex flex-row items-center gap-4">
           <div className="swiper-button-prev cursor-pointer">
-            <img src="/assets/left.svg" />
+            <img src="assets/left.svg" />
           </div>
           <div className="swiper-button-next cursor-pointer">
-            <img src="/assets/right.svg" />
+            <img src="assets/right.svg" />
           </div>
         </div>
       </div>

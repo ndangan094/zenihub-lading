@@ -23,7 +23,7 @@ const Investor = () => {
           </div>
         </div>
         <div>
-          <img src="/assets/vietnam.png" alt="Investor-Vietnam" />
+          <img src="assets/vietnam.png" alt="Investor-Vietnam" />
         </div>
       </div>
       <div className="flex flex-col w-1/2 bg-lightBlue">
@@ -40,7 +40,7 @@ const Investor = () => {
           </div>
         </div>
         <div>
-          <img src="/assets/nations.png" alt="Investor-Vietnam" />
+          <img src="assets/nations.png" alt="Investor-Vietnam" />
         </div>
       </div>
     </div>
